@@ -44,7 +44,7 @@
          "requires" : {
             "App::Prove" : "0",
             "Class::Method::Modifiers" : "0",
-            "TAP::Formatter::Session" : "0",
+            "TAP::Formatter::Session" : "3.34",
             "TAP::Parser" : "0",
             "perl" : "5.008001"
          }
