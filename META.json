@@ -70,7 +70,7 @@
          "web" : "https://github.com/masiuchi/p5-App-Prove-Plugin-CumulativeTimer"
       }
    },
-   "version" : "0.01_02",
+   "version" : "0.02",
    "x_authority" : "cpan:MASIUCHI",
    "x_serialization_backend" : "JSON::PP version 2.94"
 }
