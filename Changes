@@ -2,6 +2,10 @@ Revision history for Perl extension App-Prove-Plugin-CumulativeTimer
 
 {{$NEXT}}
 
+0.02 2017-10-12T09:41:04Z
+
+    - (No change)
+
 0.01_02 2017-10-07T08:26:54Z
 
     - Try to fix failed t/prove.t when "j" options is set in HARNESS_OPTIONS
